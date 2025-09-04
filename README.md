@@ -8,6 +8,7 @@
 - The search traces a piecewise-linear trajectory—at each step, it “jumps” from the current solution to a better neighbor, echoing how Spider-man would leap between buildings toward a taller one, but blindfolded (guided only by objective feedback).
 - The research evaluates BSO on 16 continuous benchmarks and a discrete Unbounded Knapsack instance, comparing against Whale Optimization, Grey Wolf Optimization, Particle Swarm Optimization, Simulated Annealing, Threshold Accepting, and Buggy Pinball Optimization;
 - BSO shows strong results, outperforming other single-point methods considered.
+- Main script: BlindfoldedSpidermanOptimization.py
 
 
 ## Note:
